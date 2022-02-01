@@ -2,11 +2,13 @@
 
 Without shitcoin, over the moon :)
 
-## CyberNonce Demo Project 
+## Mission
 
-- [kademlia](https://github.com/cybernonce/kademlia): Yet another plain KAD network
-- [pbft](https://github.com/cybernonce/pbft): Yet another palin PBFT
+CyberNonce is an organazation which is composed of people who is interested in Blockchain or Web3. We wanna helping every newbee in Blockchain to learn the technology in Web3 and doing some effective research on Blockchain system. In the future we could transfer some technological help for community project for buildin a wonderful Web3 world. 
 
-## CyberNonce Books
+Let's over the moon, don't FOMO.
 
-- [byzantium manual](https://github.com/cybernonce/byzantium): All about byzantium you can find it !
+## Projects 
+
+* CyberChain: a simple Bitcoin paper implementation 
+* CyberWasm: a simple wasm runtime designed for smart contract
