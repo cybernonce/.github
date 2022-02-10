@@ -10,5 +10,6 @@ Let's over the moon, don't FOMO.
 
 ## Projects 
 
-* CyberChain: a simple Bitcoin paper implementation 
-* CyberWasm: a simple wasm runtime designed for smart contract
+* CyberChain: a simple educational Bitcoin paper implementation (Working)
+* CyberWasm: a simple wasm runtime designed for smart contract (TODO)
+* Submint: with @octopus-network we are working on converting tendermint to substrate ecosystem for deterministic state transiton
