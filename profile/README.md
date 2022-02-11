@@ -11,5 +11,5 @@ Let's over the moon right now, don't FOMO.
 ## Projects 
 
 * CyberChain: a simple educational Bitcoin paper implementation (Working)
-* Submint: with [@octopus-network](https://github.com/octopus-network) we are working on converting tendermint to substrate ecosystem for deterministic state transiton(Working)
+* Submint: with [@octopus-network](https://github.com/octopus-network) we are working on converting tendermint to substrate ecosystem(Working)
 * Submint-Example: a simple uniswap V3 protocol substrate flavor implementations with submint(TODO)
