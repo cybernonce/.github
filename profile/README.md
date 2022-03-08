@@ -12,5 +12,5 @@ Let's over the moon right now, don't FOMO.
 
 * CyberChain: a simple educational Bitcoin paper implementation (Working)
 * Inkswap: an ink convertion of uniswap V2 (Working)
-* Submint: with [@octopus-network](https://github.com/octopus-network) we are working on converting tendermint to substrate ecosystem(Working)
+* Submint: we are working on converting tendermint to substrate ecosystem(Working)
 * Submint-Example: a simple uniswap V3 protocol substrate flavor implementations with submint(TODO)
